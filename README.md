@@ -25,6 +25,8 @@ We used BTS for our testing.
 ###Media
 [Watch the demonstration on YouTube!](https://www.youtube.com/watch?v=kZRTRSy9o4k)
 
+[Chat History Example](https://github.com/raghavb95/chatpp/blob/master/history-example)
+
 ![Concept Image](http://31.media.tumblr.com/c050871653c48f1ba57416c69c513094/tumblr_inline_nkw5kxydld1sgdhf8.png)
 
 
