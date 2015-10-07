@@ -29,6 +29,11 @@ We used BTS for our testing.
 
 ![Concept Image](http://31.media.tumblr.com/c050871653c48f1ba57416c69c513094/tumblr_inline_nkw5kxydld1sgdhf8.png)
 
+###Compiler
+We used the good old Turbo++ compiler, by mounting it on [DOSBox](http://sourceforge.net/projects/dosbox)
+
+[Turbo - Sourceforge](http://sourceforge.net/projects/turbocforwindows-9)
+
 
 ###Collaborators
 - Abhishek Sarin
